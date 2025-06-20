@@ -77,7 +77,7 @@ And escape — **if you can.**
 
 ## 🙌 Credits
 
-Created with love by [Your Name]  
+Created with love by [Muhammed Alperen Karaçete]  
 Special thanks to Unreal Engine & the community.
 
 ---
