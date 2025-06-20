@@ -37,16 +37,16 @@ And escape — **if you can.**
 ## 🖼️ Screenshots
 
 ### 🔦 Exploring the Crypt:
-![Gameplay Screenshot 1](images/crypt1.png)
+![Gameplay Screenshot 1](images/crypt1.PNG)
 
 ### 💎 The Golden Idol Room:
-![Gameplay Screenshot 2](images/crypt2.png)
+![Gameplay Screenshot 2](images/crypt2.PNG)
 
 ### 🔦 Exploring the Crypt:
-![Gameplay Screenshot 3](images/crypt4.png)
+![Gameplay Screenshot 3](images/crypt4.PNG)
 
 ### 🔦 Exploring the Crypt:
-![Gameplay Screenshot 4](images/crypt3.png)
+![Gameplay Screenshot 4](images/crypt3.PNG)
 
 
 ---
